@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color:yellow;
+}
+
+.box1 {
+   
+    color:blueviolet;
+    padding:35px;
+    margin:10px;
+    border:2px solid blue;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+}
+.box2{
+
+    color:darkgreen;
+    padding:35px;    
+    margin:10px;
+    border:2px solid blue;
+    height: 100px;
+    width: 100px;
+}
+div p {
+    background-color: yellow;
+    font-family: sans-serif;
+    font-style:normal;
+    font-weight: 600;
+    font-size: 50px;
+    color:green;
+    line-height: 2;  /* two line between how space give to decide*/
+    margin: 20px;
+    padding:10px;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color:rgb(80, 6, 199);
+    text-decoration-thickness:4px;
+}
+div p1 {
+    background-color: cadetblue;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color:rgb(80, 6, 199);
+    text-decoration-thickness:4px;
+    /*text-decoration-style: dotted;*/
+    text-indent: 10px;/* left in all concept go to right side using px*/
+    margin:5px;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+   
+}
